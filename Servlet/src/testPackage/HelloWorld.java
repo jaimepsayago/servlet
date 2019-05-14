@@ -27,6 +27,8 @@ public class HelloWorld extends HttpServlet {
 		// TODO Auto-generated method stub
 		PrintWriter out = response.getWriter();
 		out.println("hello world");
+		//otro mensaje utilizando commit de git para eclipse
+		out.println("hello world git");
 	}
 
 }
