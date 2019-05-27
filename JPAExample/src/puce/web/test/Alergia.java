@@ -10,7 +10,7 @@ import java.io.Serializable;
 import javax.persistence.*;
 
 @Entity //convertir en tabla
-@Table (name="Alergia")//nombre de la tabla en bdd
+@Table (name="alergia")//nombre de la tabla en bdd
 public class Alergia implements Serializable {
 
 	private static final long serialVersionUID = 1L;
