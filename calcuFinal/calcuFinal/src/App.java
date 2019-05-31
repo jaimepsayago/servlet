@@ -15,7 +15,7 @@ public class App {
 		//exArit.mostrar();
 		String res=exArit.resolver(a);
 		System.out.println(" = "+res);
-		
+		 
 		
 	}
 
